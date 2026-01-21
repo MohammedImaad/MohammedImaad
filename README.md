@@ -17,3 +17,5 @@
 👨‍💻 Previously Junior Full-Stack Engineer at Platform Commons Foundation
 
 🔍 Actively seeking full-time AI engineering opportunities
+
+Email: thouheed.imaad@gmail.com
